@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # SQL - Employee Database: A Mystery in Two Parts
+=======
+# SQL Employee Database: A Mystery in Two Parts
+>>>>>>> 1716e9224b271c1a21d85cdd19e3e9f05563faf1
 
 ![sql.png](sql.png)
 
